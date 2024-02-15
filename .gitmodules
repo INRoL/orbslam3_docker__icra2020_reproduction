@@ -1,6 +1,6 @@
 [submodule "src/deps/ORB_SLAM3"]
 	path = src/deps/ORB_SLAM3
-	url = https://github.com/UZ-SLAMLab/ORB_SLAM3
+	url = https://github.com/didrod/ORB_SLAM3__reproduction_ICRA2020
 [submodule "src/deps/Pangolin"]
 	path = src/deps/Pangolin
 	url = https://github.com/stevenlovegrove/Pangolin
